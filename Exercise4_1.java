@@ -3,11 +3,6 @@ Soyad: Uluganyan
 Öğrenci no: 250541083
  */
 
-
-
-
-
-
 public class Exercise4_1 {
 
     public static void printAmerican(String day,String month ,int date , int year) {
